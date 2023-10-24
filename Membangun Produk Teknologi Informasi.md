@@ -76,9 +76,10 @@ bla bla bla
 
 
 ## 6. Desain User Experience dan User Interface
+Ini adalah UX design yang saya buat dengan menggunakan figma, jika ingin melihat langsung bisa di link berikut:
 
-(![image](https://github.com/dazidhan/Project-UTS/assets/127527401/44f94125-eeae-4c17-acb3-c454c80dd8fb)
-)
+![image](https://github.com/dazidhan/Project-UTS/assets/127527401/44f94125-eeae-4c17-acb3-c454c80dd8fb)
+
 
 ## 7. Demonstrasi Video
 

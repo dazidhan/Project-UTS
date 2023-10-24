@@ -111,3 +111,16 @@ Link youtube nya di detik jawaban ini
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
 Link youtube nya di detik jawaban ini
+
+>>>>> untuk sementara teks dulu <<<<<
+
+Database memainkan peran kunci dalam aplikasi split bill, ada beberapa peran utama, yaitu:
+•	Penyimpan data transaksi
+  informasi transaksi terkait pembayaran dan pembagian tagihan. Informasi ini mencakup detail pembayaran, item atau     layanan yang dibayarkan, dan identitas pengguna yang terlibat dalam transaksi.
+  
+•	Pengelolaan akun
+  digunakan untuk menyimpan profil pengguna, informasi akun, dan preferensi pengguna. Ini membantu dalam mengelola      identitas pengguna, memungkinkan mereka untuk masuk, mengatur preferensi pembayaran, dan mengakses riwayat            transaksi   mereka.
+  
+•	Riwayat transaksi 
+  Basis data menyimpan riwayat transaksi, memungkinkan pengguna untuk melihat riwayat pembayaran mereka. Hal ini        bermanfaat untuk melacak pengeluaran, meninjau pembayaran masa lalu, dan memantau aktivitas keuangan pribadi
+

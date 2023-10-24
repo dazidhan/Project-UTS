@@ -122,6 +122,7 @@ Link youtube nya di detik jawaban ini
 Link youtube nya di detik jawaban ini
 
 >>>> untuk sementara teks dulu <<<<
+
 Metode pengembangan perangkat lunak atau Software Development Life Cycle (SDLC) memainkan peran penting dalam pengembangan aplikasi split bill. Berikut adalah bagaimana setiap tahap SDLC berkontribusi:
 1. Perencanaan: Di tahap ini, tim menentukan tujuan dan persyaratan aplikasi split bill. Misalnya, aplikasi harus     memungkinkan pengguna membagi tagihan dengan mudah dan adil.
 2. Analisis: Tim menganalisis persyaratan dan menentukan fitur yang akan dimasukkan dalam aplikasi, seperti kemampuan untuk menambahkan teman, memasukkan jumlah tagihan, dan membagi biaya.

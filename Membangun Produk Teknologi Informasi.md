@@ -12,6 +12,7 @@ Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding me
 - Merk: sharebills
 - Tagline: membagi tagihan, bukan persahabatan
 - Campaign: aplikasi yang membuat penggunanya mudah membagi tagihan mereka, dengan cepat dan adil 
+
 Target user:
 - Usia 18+
 - Seorang yang ingin membagi tagihan dengan adil dan cepat

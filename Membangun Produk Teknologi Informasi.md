@@ -24,18 +24,22 @@ User experience theme:
 - Warna: dominan white and black 
 
 Inspirasi desain:
+
+
+
 ![image](https://github.com/dazidhan/Project-UTS/assets/127527401/9e347d5e-bd79-4f10-a759-8c4af864bb9c)
 ![image](https://github.com/dazidhan/Project-UTS/assets/127527401/f4cd49c6-c93e-4f47-955c-afa7f97514b4)
 
 
-
-
-
 ## 2. User Story
 
-bla | bla | bla | bla
+Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+|Pengguna|Membuat pembagian tagihan|Bisa membagi tagihan|⭐⭐⭐⭐⭐
+|Pengguna|Menerima pembayaran tagihan dari pengguna lain|Bisa menerima uang|⭐⭐⭐⭐⭐
+|Pengguna|Mengirim pembayaran tagihan ke pengguna lain|Bisa mengirim uang|⭐⭐⭐⭐⭐
+|Pengguna|Melihat pengguna lain|Memudahkan pengguna mencari tau siapa saja yang ikut berpartisipasi|⭐⭐⭐⭐
+|Pengguna|Melihat waktu pembayaran|Membantu mengetahui tenggat pembayaran|⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 

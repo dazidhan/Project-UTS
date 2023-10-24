@@ -9,9 +9,9 @@ Aplikasi "Split Bill" adalah sebuah alat yang dibuat untuk memudahkan pengguna d
 ## 1.3. Branding
 
 Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding meliputi:
-•	Merk: sharebills
-•	Tagline: membagi tagihan, bukan persahabatan
-•	Campaign: membuat aplikasi yang membuat penggunanya mudah membagi tagihan mereka, dengan cepat dan adil
+- Merk: sharebills
+- Tagline: membagi tagihan, bukan persahabatan
+- Campaign: membuat aplikasi yang membuat penggunanya mudah membagi tagihan mereka, dengan cepat dan adil
 
 Target user:
 - Usia 18+

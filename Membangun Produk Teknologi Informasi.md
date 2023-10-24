@@ -78,7 +78,7 @@ bla bla bla
 ## 6. Desain User Experience dan User Interface
 
 Bisa load image 
-![Contoh](![image](https://github.com/dazidhan/Project-UTS/assets/127527401/38185818-1e00-4494-b113-dc9ea2ba731b)
+(![image](https://github.com/dazidhan/Project-UTS/assets/127527401/38185818-1e00-4494-b113-dc9ea2ba731b)
 )
 
 ## 7. Demonstrasi Video

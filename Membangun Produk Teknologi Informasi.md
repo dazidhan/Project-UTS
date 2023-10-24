@@ -81,7 +81,20 @@ Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada se
 
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+1. Bahasa Pemrograman:
+- Java dan javascript
+
+2. Platform Mobile:
+- Android Studio
+
+3. Framework Aplikasi:
+- React Native
+
+4. Database:
+- PostgreSQL
+
+5. UI/UX Design:
+- Figma
 
 
 ## 6. Desain User Experience dan User Interface

@@ -123,15 +123,27 @@ Link youtube nya di detik jawaban ini
 
 >>>> untuk sementara teks dulu <<<<
 
-Metode pengembangan perangkat lunak atau Software Development Life Cycle (SDLC) memainkan peran penting dalam pengembangan aplikasi split bill. Berikut adalah bagaimana setiap tahap SDLC berkontribusi:
-1. Perencanaan: Di tahap ini, tim menentukan tujuan dan persyaratan aplikasi split bill. Misalnya, aplikasi harus     memungkinkan pengguna membagi tagihan dengan mudah dan adil.
-2. Analisis: Tim menganalisis persyaratan dan menentukan fitur yang akan dimasukkan dalam aplikasi, seperti kemampuan untuk menambahkan teman, memasukkan jumlah tagihan, dan membagi biaya.
-3. Desain: Di tahap ini, tim merancang antarmuka pengguna dan arsitektur sistem aplikasi.
-4. Pengembangan: Tim mulai mengkodekan aplikasi berdasarkan desain yang telah dibuat.
-5. Pengujian: Aplikasi diuji untuk memastikan tidak ada bug atau masalah lainnya. Ini juga mencakup pengujian fitur split bill untuk memastikan berfungsi dengan baik.
-6. Penerapan: Setelah aplikasi diuji dan disetujui, ia diluncurkan ke publik.
-7. Pemeliharaan: Setelah peluncuran, tim terus memantau aplikasi dan membuat pembaruan atau perbaikan yang diperlukan.
-Dengan menggunakan SDLC, tim dapat memastikan bahwa aplikasi split bill dikembangkan dengan efisien dan efektif, memenuhi kebutuhan pengguna.
+Metode pengembangan perangkat lunak, juga dikenal sebagai Siklus Hidup Pengembangan Perangkat Lunak (SDLC), memiliki peran krusial dalam proses pembuatan aplikasi split bill. Berikut adalah bagaimana SDLC berkontribusi dalam setiap tahap pengembangan:
+
+1. **Perencanaan**: Tahap ini melibatkan penetapan tujuan dan sasaran untuk aplikasi split bill, termasuk penentuan anggaran dan jadwal pengembangan.
+
+2. **Analisis Kebutuhan**: Di tahap ini, tim mengumpulkan dan menganalisis persyaratan aplikasi, seperti fungsi yang dibutuhkan, desain, dan kebutuhan keamanan.
+
+3. **Desain**: Tahap ini melibatkan pembuatan desain arsitektur sistem dan antarmuka pengguna untuk aplikasi.
+
+4. **Pengembangan**: Di tahap ini, tim mulai membangun aplikasi berdasarkan desain dan persyaratan yang telah ditentukan.
+
+5. **Pengujian**: Aplikasi diuji untuk memastikan tidak ada kesalahan atau masalah lainnya. Ini mencakup pengujian fungsionalitas, keamanan, dan kinerja aplikasi.
+
+6. **Pengiriman**: Setelah aplikasi telah diuji dan disetujui, aplikasi diluncurkan untuk digunakan oleh publik.
+
+7. **Pemeliharaan**: Setelah peluncuran, tim terus memantau aplikasi dan melakukan pembaruan atau perbaikan yang diperlukan.
+
+8. **Dokumentasi**: SDLC menekankan pentingnya dokumentasi yang baik selama seluruh proses pengembangan. Dokumentasi ini berguna untuk tim pengembangan, administrator sistem, dan pengguna akhir.
+
+9. **Manajemen Proyek**: SDLC juga mencakup aspek manajemen proyek yang baik, termasuk perencanaan, pemantauan, dan pelaporan kemajuan proyek.
+
+Dengan menggunakan SDLC, tim dapat memastikan bahwa aplikasi split bill dikembangkan dengan cara yang sistematis dan efisien, menghasilkan produk berkualitas tinggi yang memenuhi kebutuhan pengguna.
 
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?

@@ -1,14 +1,30 @@
 ## 1.1 Latar Belakang
 
-bla bla bla
+Latar belakang pembuatan aplikasi ini berkaitan dengan masalah umum dan hal kecil yang sering dihadapi oleh banyak orang, yaitu pembagian tagihan yang adil dan mudah
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
+Aplikasi "Split Bill" adalah sebuah alat yang dibuat untuk memudahkan pengguna dalam membagi biaya atau tagihan dengan teman atau keluarga mereka secara adil dan tanpa repot
 
 ## 1.3. Branding
 
-bla bla bla
+Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding meliputi:
+•	Merk: sharebills
+•	Tagline: membagi tagihan, bukan persahabatan
+•	Campaign: membuat aplikasi yang membuat penggunanya mudah membagi tagihan mereka, dengan cepat dan adil
+
+Target user:
+- Usia 18+
+- Seorang yang ingin membagi tagihan dengan adil dan cepat
+- Seorang yang tidak ingin ribet
+  
+User experience theme:
+- Mudah
+- Sederhana
+- Warna: dominan white and black 
+
+Inspirasi desain:
+
 
 ## 2. User Story
 
@@ -22,8 +38,22 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 
 ```mermaid
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+    PENGGUNA {
+      String nama_lengkap
+      int nomor_telepon
+      string email
+      string password
+    }
+    PENGGUNA ||--o{ TAGIHAN : membuat
+    TAGIHAN ||--o{ TAGIHAN : membalas 
+    TAGIHAN {
+      String Pengguna
+      int total_tagihan
+      datetime waktu_tagihan
+      String judul_tagihan 
+      String pengguna_lain
+      int tagihan_perorang
+    }
 ```
 
 ## 4. Arsitektur Sistem

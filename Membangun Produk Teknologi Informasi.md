@@ -24,6 +24,10 @@ User experience theme:
 - Warna: dominan white and black 
 
 Inspirasi desain:
+![image](https://github.com/dazidhan/Project-UTS/assets/127527401/9e347d5e-bd79-4f10-a759-8c4af864bb9c)
+![Uploading image.png…]()
+
+
 
 
 ## 2. User Story

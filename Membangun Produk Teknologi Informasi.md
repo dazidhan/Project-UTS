@@ -113,6 +113,20 @@ Link youtube nya
 
 Link youtube nya di detik jawaban ini
 
+>>>> untuk sementara teks dulu <<<<
+
+Mesin komputasi dan sistem operasi memiliki peran penting dalam pengoperasian aplikasi split bill. Berikut adalah bagaimana mereka berkontribusi:
+
+1. **Mesin Komputasi**: Mesin komputasi, atau hardware komputer, adalah fondasi fisik tempat aplikasi berjalan. Ini mencakup komponen seperti prosesor, memori, dan penyimpanan, yang semuanya mempengaruhi kinerja aplikasi. Misalnya, prosesor yang cepat dapat mempercepat perhitungan pembagian tagihan, sementara memori yang cukup dapat memungkinkan aplikasi untuk menangani sejumlah besar data pengguna.
+
+2. **Sistem Operasi**: Sistem operasi mengelola sumber daya hardware dan menyediakan layanan yang diperlukan oleh aplikasi. Dalam konteks aplikasi split bill, sistem operasi dapat:
+   - Mengelola koneksi jaringan yang digunakan aplikasi untuk berkomunikasi dengan server dan pengguna lain.
+   - Menyediakan antarmuka untuk aplikasi untuk menyimpan data ke disk atau mengambil data dari disk.
+   - Mengelola memori yang digunakan oleh aplikasi.
+   - Menyediakan mekanisme keamanan untuk melindungi data pengguna dan mencegah akses yang tidak sah.
+
+Dengan demikian, mesin komputasi dan sistem operasi memainkan peran penting dalam memastikan bahwa aplikasi split bill dapat berjalan dengan lancar dan efisien.
+
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 
 Link youtube nya di detik jawaban ini

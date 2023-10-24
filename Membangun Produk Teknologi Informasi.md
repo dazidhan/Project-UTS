@@ -117,6 +117,18 @@ Link youtube nya di detik jawaban ini
 
 Link youtube nya di detik jawaban ini
 
+>>>> untuk sementara teks dulu <<<<
+
+Algoritma, struktur data, dan bahasa pemrograman semuanya memainkan peran penting dalam pengembangan aplikasi split bill. Berikut adalah bagaimana mereka berkontribusi:
+
+1. **Algoritma**: Dalam konteks aplikasi split bill, algoritma dapat digunakan untuk menghitung bagaimana tagihan harus dibagi di antara pengguna, memproses pembayaran, dan melakukan operasi lainnya.
+
+2. **Struktur Data**: Struktur data digunakan untuk menyimpan dan mengatur data dalam aplikasi. Misalnya, aplikasi split bill mungkin menggunakan struktur data seperti array atau list untuk menyimpan daftar pengguna, atau pohon atau graf untuk merepresentasikan jaringan sosial pengguna.
+
+3. **Bahasa Pemrograman**: Bahasa pemrograman digunakan untuk menulis kode yang mengimplementasikan algoritma dan struktur data. Pilihan bahasa pemrograman dapat mempengaruhi kinerja aplikasi, kemudahan pengembangan, dan faktor lainnya. Misalnya, Java atau Python mungkin digunakan untuk backend aplikasi, sementara JavaScript mungkin digunakan untuk frontend.
+
+Dengan menggunakan algoritma yang efisien, struktur data yang tepat, dan bahasa pemrograman yang sesuai, tim pengembangan dapat memastikan bahwa aplikasi split bill berfungsi dengan baik dan memberikan pengalaman pengguna yang baik.
+
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
 Link youtube nya di detik jawaban ini

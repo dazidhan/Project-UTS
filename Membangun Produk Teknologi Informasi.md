@@ -115,6 +115,7 @@ Link youtube nya di detik jawaban ini
 >>>>> untuk sementara teks dulu <<<<<
 
 Database memainkan peran kunci dalam aplikasi split bill, ada beberapa peran utama, yaitu:
+
 •	Penyimpan data transaksi
   informasi transaksi terkait pembayaran dan pembagian tagihan. Informasi ini mencakup detail pembayaran, item atau     layanan yang dibayarkan, dan identitas pengguna yang terlibat dalam transaksi.
   

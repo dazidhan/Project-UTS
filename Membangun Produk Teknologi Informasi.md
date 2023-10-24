@@ -79,7 +79,7 @@ bla bla bla
 
 ![image](https://github.com/dazidhan/Project-UTS/assets/127527401/e3455617-9304-4a52-9cd8-0b81c8347651)
 
-Ini adalah UX design yang saya buat dengan menggunakan figma, jika ingin melihat langsung bisa di link berikut:
+Ini adalah UX design yang saya buat dengan menggunakan figma, jika ingin melihat langsung bisa di link berikut: https://www.figma.com/file/Qu18CDqYvsBRFQdtxI0rWv/split-bill?type=design&node-id=0%3A1&mode=design&t=VXjV1kk0fPMUqq9J-1
 
 
 ## 7. Demonstrasi Video

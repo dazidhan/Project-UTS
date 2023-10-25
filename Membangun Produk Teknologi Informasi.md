@@ -14,7 +14,7 @@ Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding me
 - Campaign: aplikasi yang membuat penggunanya mudah membagi tagihan mereka, dengan cepat dan adil 
 
 Target user:
-- Usia 18+
+- Usia 18+ (usia dibawah itu perlu pendampingan)
 - Seorang yang ingin membagi tagihan dengan adil dan cepat
 - Seorang yang tidak ingin ribet
   

@@ -115,15 +115,15 @@ Link youtube nya di detik jawaban ini
 
 >>>> untuk sementara teks dulu <<<<
 
-Mesin komputasi dan sistem operasi memiliki peran penting dalam pengoperasian aplikasi split bill. Berikut adalah bagaimana mereka berkontribusi:
+Mesin komputasi dan sistem operasi memiliki peran penting dalam pengoperasian aplikasi split bill. Berikut ini kontribusinya:
 
-1. **Mesin Komputasi**: Mesin komputasi, atau hardware komputer, adalah fondasi fisik tempat aplikasi berjalan. Ini mencakup komponen seperti prosesor, memori, dan penyimpanan, yang semuanya mempengaruhi kinerja aplikasi. Misalnya, prosesor yang cepat dapat mempercepat perhitungan pembagian tagihan, sementara memori yang cukup dapat memungkinkan aplikasi untuk menangani sejumlah besar data pengguna.
+1. Mesin Komputasi: Mesin komputasi, atau hardware komputer, adalah fondasi fisik tempat aplikasi berjalan. Ini mencakup komponen seperti prosesor, memori, dan penyimpanan, yang semuanya mempengaruhi kinerja aplikasi. Misalnya, prosesor yang cepat dapat mempercepat perhitungan pembagian tagihan, sementara memori yang cukup dapat memungkinkan aplikasi untuk menangani sejumlah besar data pengguna.
 
-2. **Sistem Operasi**: Sistem operasi mengelola sumber daya hardware dan menyediakan layanan yang diperlukan oleh aplikasi. Dalam konteks aplikasi split bill, sistem operasi dapat:
+2. Sistem Operasi: Sistem operasi mengelola sumber daya hardware dan menyediakan layanan yang diperlukan oleh aplikasi. Dalam konteks aplikasi split bill, sistem operasi dapat:
    - Mengelola koneksi jaringan yang digunakan aplikasi untuk berkomunikasi dengan server dan pengguna lain.
-   - Menyediakan antarmuka untuk aplikasi untuk menyimpan data ke disk atau mengambil data dari disk.
+   - Menyediakan interface untuk aplikasi untuk menyimpan data ke disk atau mengambil data dari disk.
    - Mengelola memori yang digunakan oleh aplikasi.
-   - Menyediakan mekanisme keamanan untuk melindungi data pengguna dan mencegah akses yang tidak sah.
+   - Menyediakan mekanisme keamanan untuk melindungi data pengguna dan mencegah akses yang illegal.
 
 Dengan demikian, mesin komputasi dan sistem operasi memainkan peran penting dalam memastikan bahwa aplikasi split bill dapat berjalan dengan lancar dan efisien.
 
@@ -135,11 +135,17 @@ Link youtube nya di detik jawaban ini
 
 Algoritma, struktur data, dan bahasa pemrograman semuanya memainkan peran penting dalam pengembangan aplikasi split bill. Berikut adalah bagaimana mereka berkontribusi:
 
-1. **Algoritma**: Dalam konteks aplikasi split bill, algoritma dapat digunakan untuk menghitung bagaimana tagihan harus dibagi di antara pengguna, memproses pembayaran, dan melakukan operasi lainnya.
+1. Algoritma: Dalam konteks aplikasi split bill, algoritma dapat digunakan untuk menghitung bagaimana tagihan harus dibagi di antara pengguna, memproses pembayaran, dan melakukan operasi lainnya.
+   > Pertama membuka aplikasi, pengguna akan dibawa ke page "tampilan awal" dan akan diberikan pilihan "Login" atau "Register"
+   > Jika user memilih "Login", maka user akan dibawa ke page "Login" untuk memasukkan email dan password yang sudah dibuat sebelumnnya
+   > Jika user memilih "Register", makas user akan dibawa ke page "Register" untuk membuat akun baru
+   > Setelah mengisi page "Login" atau "Register" user akan dibawa ke page "Main page", di sana user bisa membuat tagihan, melihat tagihan yang ada dan melihat akunnya sendiri
+   > Jika user mengklik icon account di pojok kanan atas di page "Main page", maka user akan dibawa ke page "account" di sana user bisa melihat profile akuunya sendiri dan mengedit akunnya sendiri
+   > Jika user mengklik salah satu bentuk tagihan di page "<ain
 
-2. **Struktur Data**: Struktur data digunakan untuk menyimpan dan mengatur data dalam aplikasi. Misalnya, aplikasi split bill mungkin menggunakan struktur data seperti array atau list untuk menyimpan daftar pengguna, atau pohon atau graf untuk merepresentasikan jaringan sosial pengguna.
+3. **Struktur Data**: Struktur data digunakan untuk menyimpan dan mengatur data dalam aplikasi. Misalnya, aplikasi split bill mungkin menggunakan struktur data seperti array atau list untuk menyimpan daftar pengguna, atau pohon atau graf untuk merepresentasikan jaringan sosial pengguna.
 
-3. **Bahasa Pemrograman**: Bahasa pemrograman digunakan untuk menulis kode yang mengimplementasikan algoritma dan struktur data. Pilihan bahasa pemrograman dapat mempengaruhi kinerja aplikasi, kemudahan pengembangan, dan faktor lainnya. Misalnya, Java atau Python mungkin digunakan untuk backend aplikasi, sementara JavaScript mungkin digunakan untuk frontend.
+4. **Bahasa Pemrograman**: Bahasa pemrograman digunakan untuk menulis kode yang mengimplementasikan algoritma dan struktur data. Pilihan bahasa pemrograman dapat mempengaruhi kinerja aplikasi, kemudahan pengembangan, dan faktor lainnya. Misalnya, Java atau Python mungkin digunakan untuk backend aplikasi, sementara JavaScript mungkin digunakan untuk frontend.
 
 Dengan menggunakan algoritma yang efisien, struktur data yang tepat, dan bahasa pemrograman yang sesuai, tim pengembangan dapat memastikan bahwa aplikasi split bill berfungsi dengan baik dan memberikan pengalaman pengguna yang baik.
 

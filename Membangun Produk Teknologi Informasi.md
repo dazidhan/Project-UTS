@@ -141,7 +141,8 @@ Algoritma, struktur data, dan bahasa pemrograman semuanya memainkan peran pentin
    > Jika user memilih "Register", makas user akan dibawa ke page "Register" untuk membuat akun baru
    > Setelah mengisi page "Login" atau "Register" user akan dibawa ke page "Main page", di sana user bisa membuat tagihan, melihat tagihan yang ada dan melihat akunnya sendiri
    > Jika user mengklik icon account di pojok kanan atas di page "Main page", maka user akan dibawa ke page "account" di sana user bisa melihat profile akuunya sendiri dan mengedit akunnya sendiri
-   > Jika user mengklik salah satu bentuk tagihan di page "Main page", maka user akan dibaw
+   > Jika user mengklik salah satu bentuk tagihan di page "Main page", maka user akan dibawa ke page "Android Small - 2"
+   > di page "Android Small - 2" user bisa melihat dan membayar tagihan
 
 3. **Struktur Data**: Struktur data digunakan untuk menyimpan dan mengatur data dalam aplikasi. Misalnya, aplikasi split bill mungkin menggunakan struktur data seperti array atau list untuk menyimpan daftar pengguna, atau pohon atau graf untuk merepresentasikan jaringan sosial pengguna.
 

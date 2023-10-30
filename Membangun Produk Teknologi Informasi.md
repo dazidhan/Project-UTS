@@ -1,10 +1,12 @@
 ## 1.1 Latar Belakang
 
-Latar belakang pembuatan aplikasi ini berkaitan dengan masalah umum dan hal kecil yang sering dihadapi oleh banyak orang, yaitu pembagian tagihan yang adil dan mudah
+Latar belakang pembuatan aplikasi ini berkaitan dengan masalah umum dan hal kecil yang sering dihadapi oleh banyak orang, yaitu pembagian tagihan yang adil dan mudah 
+
+Dengan adanya aplikasi sharebills, pengguna dapat membagi pengeluaran dengan mudah dan menghindari kesalahpahaman atau konflik terkait pembagian pengeluaran. Aplikasi ini sangat berguna saat bepergian bersama teman atau keluarga dan dapat membantu menghemat waktu dan usaha dalam menghitung pembagian pengeluaran. Cukup gunakan aplikasi ini tanpa ribet dan mudah untuk digunakan
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Aplikasi "Split Bill" adalah sebuah alat yang dibuat untuk memudahkan pengguna dalam membagi biaya atau tagihan dengan teman atau keluarga mereka secara adil dan tanpa repot
+Aplikasi "sharebills" adalah sebuah alat atau aplikasi yang dibuat untuk memudahkan pengguna dalam membagi biaya atau tagihan dengan teman atau keluarga secara adil dan tanpa ribet
 
 ## 1.3. Branding
 

@@ -6,7 +6,7 @@ Dengan adanya aplikasi sharebills, pengguna dapat membagi pengeluaran dengan mud
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Aplikasi "sharebills" adalah sebuah alat atau aplikasi yang dibuat untuk memudahkan pengguna dalam membagi biaya atau tagihan dengan teman atau keluarga secara adil dan tanpa ribet
+Aplikasi "sharebills" adalah sebuah alat atau aplikasi yang dibuat untuk memudahkan pengguna dalam membagi biaya atau tagihan dengan teman atau keluarga secara adil dan tanpa ribet. UI/UX aplikasi ini dibuat dengan bantuan Figma dan beberapa referensi yang saya ambil di web dribbble, rencananya aplikasi akan dibuat dengan bantuan react native, untuk database rencana akan memakai postgresql
 
 ## 1.3. Branding
 
@@ -42,6 +42,10 @@ Sebagai | Saya ingin bisa | Sehingga | Prioritas
 |Pengguna|Mengirim pembayaran tagihan ke pengguna lain|Bisa mengirim uang|⭐⭐⭐⭐⭐
 |Pengguna|Melihat pengguna lain|Memudahkan pengguna mencari tau siapa saja yang ikut berpartisipasi|⭐⭐⭐⭐
 |Pengguna|Melihat waktu pembayaran|Membantu mengetahui tenggat pembayaran|⭐⭐⭐⭐⭐
+|Pengguna|Menyimpan kontak user lain|Memudahkan menambahkan user lain ke list tagihan|⭐⭐⭐
+|Pengguna|Mengirim notif tagihan|Memudahkan mengingat pembayaran|⭐⭐
+|Pengguna|Melihat riwayat pembayaran|Memudahkan melacak pembayaran|⭐⭐
+|Pengguna|Chatingan dengan user lain|Memudahkan komunikasi|⭐
 
 ## 3. Struktur Data
 

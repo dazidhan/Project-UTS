@@ -113,28 +113,25 @@ Ini adalah UX design yang saya buat dengan menggunakan figma, jika ingin melihat
 
 ## 7. Demonstrasi Video
 
-Link youtube nya
+Link youtube: https://youtu.be/dg1vWfWrvtE
+
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
-
+Link youtube: https://youtu.be/dg1vWfWrvtE?t=235
 
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
-
+Link youtube: https://youtu.be/dg1vWfWrvtE?t=336
 
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
-
-
+Link youtube: https://youtu.be/dg1vWfWrvtE?t=546
 
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+Link youtube: https://youtu.be/dg1vWfWrvtE?t=710
 
